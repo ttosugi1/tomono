@@ -1,0 +1,13 @@
+git@github.com:pivotal/panorama.git panorama
+git@github.com:pivotal/panorama-end-to-end.git panorama-end-to-end
+git@github.com:pivotal/meeple.git meeple
+git@github.com:pivotal/meeple-api.git meeple-api
+git@github.com:pivotal/meeple-auth.git meeple-auth
+git@github.com:pivotal/meeple-ci.git meeple-ci
+git@github.com:pivotal/meeple-config.git meeple-config
+git@github.com:pivotal/meeple-maintenance.git meeple-maintenance
+git@github.com:pivotal/meeple-people.git meeple-people
+git@github.com:pivotal/meeple-places.git meeple-places
+git@github.com:pivotal/meeple-projects.git meeple-projects
+git@github.com:pivotal/meeple-skills.git meeple-skills
+git@github.com:pivotal/meeple-timelines.git meeple-timelines

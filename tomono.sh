@@ -13,7 +13,8 @@
 ${DEBUGSH:+set -x}
 if [[ "$BASH_SOURCE" == "$0" ]]; then
 	is_script=true
-	set -eu -o pipefail
+        set -o pipefail
+	#set -eu -o pipefail
 else
 	is_script=false
 fi
